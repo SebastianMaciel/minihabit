@@ -1,5 +1,7 @@
 # MiniHabit
 
+[Try it](https://minihabit.sebastianmaciel.dev/)
+
 A simple web app to help you build and track small habits.
 
 ## Features
