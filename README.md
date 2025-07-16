@@ -1,3 +1,5 @@
+<img width="1090" height="980" alt="image" src="https://github.com/user-attachments/assets/5d5c41de-136b-48d4-b162-5a9f807b3575" />
+
 # MiniHabit
 
 [Try it](https://minihabit.sebastianmaciel.dev/)
